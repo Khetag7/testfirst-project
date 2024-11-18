@@ -1,0 +1,37 @@
+*
+{
+	margin: 0; 
+	padding: 0;
+	border:0;
+	box-sizing: border-box;
+	font-family: 'Inter-Regular';
+}
+.container
+{
+	width:1100px;
+	margin: 0 auto;
+}
+.container-flex
+{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+.main-flex
+{
+	display: flex;
+	justify-content: space-between;
+}
+header
+{
+	background: #F4F4F4;
+	margin-bottom: 40px;
+}
+a
+{
+	text-decoration:none;
+}
+ul
+{
+	list-style-type: none;
+}
